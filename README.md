@@ -4,6 +4,6 @@ A collection of gifs.
 
 ## Tools
 
-- [Gyfcat Gif Creator](https://gfycat.com/create)
+- [ezgif maker](https://ezgif.com/video-to-gif)
 - [Giphy Gif Maker](https://giphy.com/create/gifmaker)
 - [Download a video in a Tweet](https://www.savetweetvid.com/)
